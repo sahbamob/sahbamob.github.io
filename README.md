@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
-## Hello!
-
-You can use the [editor on GitHub](https://github.com/sahbamob/sahbamob.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Hello!
 
 My name is Sahba, and I'm currently studying UX and Machine Learning at UC San Diego. I'm passionate about creating smarter systems and discovering hidden problems. Scroll down to see my existing projects!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## CruiseCTRL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## DisneyLines
 
 ```markdown
 Syntax highlighted code block
