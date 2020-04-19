@@ -1,6 +1,9 @@
 # Hello!
 
-My name is Sahba, and I'm currently studying UX and Machine Learning at UC San Diego. I'm passionate about creating smarter systems and discovering hidden problems. Scroll down to see my existing projects!
+My name is Sahba Mobini and I'm currently studying UX and Machine Learning at UC San Diego. I'm passionate about creating smarter human systems and discovering hidden problems. Scroll down to see my existing projects!
+
+
+
 
 ## CruiseCTRL
 Our initial prompt for this assignment was to design an application centered around presenting some type of information in a more intuitive way. My team's application went through many iterations and functions, and landed on becoming an offline go-to drivers manual, equipped with FAQs and expert help for drivers in need of immediate assistance.
